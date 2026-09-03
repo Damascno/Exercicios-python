@@ -13,7 +13,6 @@ O objetivo é praticar lógica de programação e construir uma base sólida na 
 - `if` e `else`
 - Operadores de comparação
 - `and`
-- `or`
 - Strings
 - `f-strings`
 - Formatação de números
